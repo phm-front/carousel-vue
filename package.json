@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lhz960904/ouio"
+    "url": "https://github.com/phm-front/carousel-vue.git"
   },
   "dependencies": {
     "core-js": "^3.6.5",
