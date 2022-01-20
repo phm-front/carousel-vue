@@ -5808,6 +5808,15 @@ performance-now@^2.1.0:
   resolved "http://172.16.2.65:4873/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
   integrity sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=
 
+phm-ui@0.1.1, phm-ui@^0.1.0:
+  version "0.1.1"
+  resolved "https://registry.npmjs.org/phm-ui/-/phm-ui-0.1.1.tgz#0cd11ec4159961dfb700083604a2e59ff55cf334"
+  integrity sha512-2WMiFECyAxtDaL1F2HLsx+M++SkUyji1Dhd9iBP8voysxyWMo/m8qZc7WxJgYAIHCbepN3+UkVMubIvAzzMo3g==
+  dependencies:
+    core-js "^3.6.5"
+    phm-ui "^0.1.0"
+    vue "^2.6.11"
+
 picocolors@^0.2.1:
   version "0.2.1"
   resolved "http://172.16.2.65:4873/picocolors/-/picocolors-0.2.1.tgz#570670f793646851d1ba135996962abad587859f"

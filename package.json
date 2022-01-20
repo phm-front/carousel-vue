@@ -1,13 +1,21 @@
 {
-  "name": "npm-demo",
+  "name": "carousel-vue",
   "version": "0.1.0",
-  "private": true,
+  "main": "carousel/carousel.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "carousel": "vue-cli-service build --target lib ./src/index.js --name carousel --dest dist-carousel"
+  },
+  "author": "phm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lhz960904/ouio"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "phm-ui": "0.1.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
